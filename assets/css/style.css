@@ -487,8 +487,7 @@ a {
     flex-shrink: 0;
     object-fit: cover;
     border-radius: 50%;
-    background: url(/assets/img/avatar.png) lightgray -51.126px -33.052px /
-        228.267% 342.4% no-repeat;
+    
 }
 
 .feedback .avatar-name {
