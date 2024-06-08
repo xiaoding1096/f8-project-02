@@ -114,8 +114,12 @@ a {
     max-width: 144px;
     background: #171100;
     margin-left: 70px;
+    border: transparent;
 }
 
+.header .btn-signup-header:hover {
+    background: var(--second-color);
+}
 /*==================== Hero Section ====================*/
 .hero {
     background: var(--primary-color);
